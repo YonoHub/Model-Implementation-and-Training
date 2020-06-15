@@ -1,0 +1,9 @@
+[submodule "Image-Classification-TFDS-Batch-Player"]
+	path = Image-Classification-TFDS-Batch-Player
+	url = https://github.com/YonoHub/Image-Classification-TFDS-Batch-Player.git
+[submodule "CIFAR-CNN"]
+	path = CIFAR-CNN
+	url = https://github.com/YonoHub/CIFAR-CNN.git
+[submodule "Netron"]
+	path = Netron
+	url = https://github.com/YonoHub/Netron.git
